@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Noor-ul-ain Arbab</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
+<img align="right" alt="coding" width="400" src="https://lottiefiles.com/free-animation/multitasking-woman-cXemV9hnxc">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noorulainarbab&label=Profile%20views&color=0e75b6&style=flat" alt="noorulainarbab" /> </p>
 
