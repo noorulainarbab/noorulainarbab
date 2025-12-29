@@ -1,9 +1,9 @@
-<img width="268" height="188" alt="image" src="https://github.com/user-attachments/assets/6b10685d-03cc-417f-91e5-42a509502252" /><img width="1128" height="663" alt="image" src="https://github.com/user-attachments/assets/35bc5dd7-26e1-4627-a1b5-7b2478136ebd" /><h1 align="center">Hi 👋, I'm Noor-ul-ain Arbab</h1>
+<h1 align="center">Hi 👋, I'm Noor-ul-ain Arbab</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="https://lottiefiles.com/free-animation/multitasking-woman-cXemV9hnxc">
+<img align="right" alt="coding" width="400" src="[https://lottiefiles.com/free-animation/multitasking-woman-cXemV9hnxc](https://github.com/navyaajainnn/navyaajainnn)">
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=noorulainarbab&label=Profile%20views&color=0e75b6&style=flat" alt="noorulainarbab](https://github.com/navyaajainnn/navyaajainnn)" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=noorulainarbab&label=Profile%20views&color=0e75b6&style=flat" alt="noorulainarbab" /> </p>
 
 - 🌱 I’m currently learning **advanced backend systems and scalable architectures**
 
