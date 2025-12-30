@@ -1,4 +1,4 @@
-![logo](https://github.com/noorulainarbab/noorulainarbab/blob/main/banner.png)
+![logo](https://github.com/noorulainarbab/noorulainarbab/blob/main/banner2.png)
 
 <h1 align="center">Hi 👋, I'm Noor-ul-ain Arbab</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
