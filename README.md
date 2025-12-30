@@ -1,7 +1,20 @@
-# 💫 About Me:
-🔭 I’m currently working on Full Stack Web Development projects as a Software Engineer<br>🤝 I’m looking to collaborate on creative and challenging web apps<br>🛠 I’m looking for help with cloud integration & modern JS frameworks<br>🌱 I’m currently learning advanced backend systems and scalable architectures<br>💬 Ask me about Software Engineering, Web Development & coding tips<br>⚡ Fun fact: I build websites faster than I drink coffee!
+![logo](https://github.com/noorulainarbab/noorulainarbab/blob/main/banner.png)
 
+<h1 align="center">Hi 👋, I'm Noor-ul-ain Arbab</h1>
+<h3 align="center">A passionate Software Engineer from Pakistan</h3>
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=noorulainarbab&label=Profile%20views&color=0e75b6&style=flat" alt="noorulainarbab" /> </p>
+
+- 🌱 I’m currently learning **advanced backend systems and scalable architectures**
+
+- 🤝 I’m looking for help with **cloud integration & modern JS frameworks**
+
+- 💬 Ask me about **Software Engineering, Web Development & coding tips**
+
+- 📫 How to reach me **noorulainarbab@gmail.com**
+
+- ⚡ Fun fact **I turn coffee into code!**
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/nooorulainarbab) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/noorulainarbab) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/noorulain-arbab/) 
 
